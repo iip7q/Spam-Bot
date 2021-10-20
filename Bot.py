@@ -9,7 +9,7 @@ init(autoreset=True)
 
 print(Fore.LIGHTBLUE_EX + '''
 |>>>>>>>>>>>>>>>>>>>>>>>>|
-|< Spam Bot By Кот#2907 >|
+|< Spam Bot By A Stranger>|
 |< date: 2021-09-08     >|
 |>>>>>>>>>>>>>>>>>>>>>>>>|
 ''')
