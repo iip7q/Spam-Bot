@@ -25,6 +25,6 @@ def spam():
     while True:
         pygui.typewrite(text)
         pygui.press('enter')
-        pygui.PAUSE = False
+        pygui.PAUSE = 0.5
 spam = threading.Thread(target=spam())
 spam.start()
