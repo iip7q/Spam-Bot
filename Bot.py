@@ -3,13 +3,12 @@ from colorama import *
 import pyautogui as pygui
 import keyboard
 import threading
-import sys
 init(autoreset=True)
 
 
 print(Fore.LIGHTBLUE_EX + '''
 |>>>>>>>>>>>>>>>>>>>>>>>>|
-|< Spam Bot By A Stranger>|
+|< Spam Bot By A Frogr  >|
 |< date: 2021-09-08     >|
 |>>>>>>>>>>>>>>>>>>>>>>>>|
 ''')
